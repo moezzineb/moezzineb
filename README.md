@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moezzineb" alt="moezzineb" /></a> </p>
 
-- 🔭 I’m currently working on [Reddit Clone]
+- 🔭 I’m currently working on <b>Reddit Clone</b>
 
 - 🌱 I’m currently learning **NextsJS, Redux Toolkit**
 
