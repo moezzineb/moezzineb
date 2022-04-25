@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://moez-zaineb.netlify.com/](https://moez-zaineb.netlify.com/)
 
-- 💬 Ask me about **symfony, laravel, angular, react**
+- 💬 Ask me about **Symfony, Laravel, React, Angular**
 
 - 📫 How to reach me **moez.zineb@gmail.com**
 
