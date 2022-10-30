@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **React / Redux projects**
 
-- 👨‍💻 All of my projects are available at [https://moez-zaineb.netlify.com/](https://moez-zaineb.netlify.com/)
+- 👨‍💻 All of my projects are available at [https://moez-zaineb.vercel.app/](https://moez-zaineb.vercel.app/)
 
 - 💬 Ask me about **Symfony, Laravel, React, Angular**
 
 - 📫 How to reach me **moez.zineb@gmail.com**
 
-- 📄 Know about my experiences [https://moez-zaineb.netlify.com/](https://moez-zaineb.netlify.com/)
+- 📄 Know about my experiences [https://moez-zaineb.vercel.app/](https://moez-zaineb.vercel.app/)
 
 - ⚡ Fun fact **People think that i'm always angry but i'm not**
 
